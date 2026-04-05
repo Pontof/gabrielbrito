@@ -4,7 +4,8 @@
     Hello there! I'm <b>Gabriel Brito</b>.
     <br>I'm a Computer Science student at UENF from Brazil.<br>
   </samp>
-  <img src="https://raw.githubusercontent.com/Pontof/gabrielbrito/main/assets/ilovecomputers.gif" width="200"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/Pontof/gabrielbrito/main/assets/ilovecomputers.gif" width="300"/>
 </p>
 <details align="center">
 <summary> <b> <samp> lain </samp></b></summary>
